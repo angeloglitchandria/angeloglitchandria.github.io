@@ -2,19 +2,9 @@
 # Display name
 title: Angelo M. Andriano
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Angelo Maria
 last_name: Andriano
-
-# Pronouns (optional)
-pronouns:
-
-# Status emoji
-status:
-  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +35,7 @@ interests:
   - Game Design
   - Cinema Formalism
   - Aesthetics
-  - Philosophy of Tcehnology
+  - Philosophy of Technology
   - Literature 
   - Logic and Philosophy of Science
 
@@ -81,19 +71,15 @@ work:
     date_start: 2024-10-01
     date_end: 2024-12-31
     summary: |2-
-
-
-       Research stay financed by an award granted by Milan University to finalize final dissertation research about the design of critical thingking in videogames. Worked under supervision of Prof. Marco Caracciolo.
+      Research stay financed by an award granted by Milan University to finalize final dissertation research about the design of critical thingking in videogames. Worked under supervision of Prof. Marco Caracciolo.
   - position: Research Fellow
-    company_name: Sorbonne Université Pari-1
+    company_name: Sorbonne Université Paris-1
     company_url: 'https://www.pantheonsorbonne.fr/'
     company_logo: ''
     date_start: 2022-04-01
     date_end: 2022-07-31
     summary: |2-
-
-    
-      Research stay financed by an award granted by Trento University to write final dissertation research about the relationshitp between scientific knowledge and common sense.  
+      Research stay financed by an award granted by Trento University to write final dissertation research about the relationship between scientific knowledge and common sense.  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,9 +120,7 @@ awards:
   
 ---
 |2-
-
-
-Angelo M. Andriano is a PhD candidate at IULM University. His current research focuses on the uses of irony in videogames and the relationship between players and game systems. 
+  Angelo M. Andriano is a PhD candidate at IULM University. His current research focuses on the uses of irony in videogames and the relationship between players and game systems. 
 
 He also owns a YouTube channel, _F For Frame_, about cinema. 
 He also writes a newsletter on Substack, _Yorick_, about culture and media. 
