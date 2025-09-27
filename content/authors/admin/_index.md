@@ -43,7 +43,6 @@ education:
   - area: PhD Media Studies (Game Studies Focus)
     institution: IULM University
     date_start: 2025-10-14
-    date_end: in progress
     summary: |
       Thesis on _Simulation of Players Decentralization in Videogames_.
   - area: Master's Degree in Philosophy
