@@ -28,7 +28,7 @@ role: PhD Candidate, Writer, Video Editor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IULM University
-    url: 'https://iulm.it/'
+    url: https://iulm.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,9 +37,9 @@ profiles:
     url: 'mailto:angelomaria.andriano@studenti.iulm.it'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: 'https://scholar.google.com/citations?user=angelomariaandriano'
+    url: https://scholar.google.com/citations?user=angelomariaandriano
   - icon: academicons/orcid
-    url: 'https://orcid.org/0009-0001-9987-2321'
+    url: https://orcid.org/0009-0001-9987-2321
 
 interests:
   - Game Design
@@ -58,16 +58,16 @@ education:
       Thesis on _Simulation of Players Decentralization in Videogames_.
   - area: Master's Degree in Philosophy
     institution: Milan University
-    date_start: 2023-01
-    date_end: 2025-04
+    date_start: 2022-10-01
+    date_end: 2025-04-08
     summary: |
       Grades: 110/110 Cum Laude
 
       Specialized in Game Studies and Aesthetics. 
   - area: Bacherlor's Degree in Logic, Philosophy of Science and Language
     institution: Trento University
-    date_start: 2019-09
-    date_end: 2022-10
+    date_start: 2019-09-01
+    date_end: 2022-10-01
     summary: |
       Grades: 110/110 Cum Laude
 
@@ -78,16 +78,16 @@ work:
     company_name: Ghent University
     company_url: 'https://www.ugent.be/en'
     company_logo: ''
-    date_start: 2024-10
-    date_end: 2024-12
+    date_start: 2024-10-01
+    date_end: 2024-12-31
     summary: |2-
        Research stay financed by an award granted by Milan University to finalize final dissertation research about the design of critical thingking in videogames. Worked under supervision of Prof. Marco Caracciolo.
   - position: Research Fellow
     company_name: Sorbonne Université Pari-1
     company_url: 'https://www.pantheonsorbonne.fr/'
     company_logo: ''
-    date_start: 2022-04
-    date_end: 2022-07
+    date_start: 2022-04-01
+    date_end: 2022-07-31
     summary: |
       Research stay financed by an award granted by Trento University to write final dissertation research about the relationshitp between scientific knowledge and common sense.  
 
@@ -122,7 +122,7 @@ languages:
 awards:
   - title: Collegio Clesio Scholarship
     url: https://neurips.cc/
-    date: '2019-2022'
+    date: '2019-09-01'
     awarder: Trento University and Fondazione Caritro Trento
     icon: hero/trophy
     summary: |
