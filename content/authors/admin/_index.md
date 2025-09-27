@@ -76,11 +76,13 @@ education:
 work:
   - position: Research Fellow
     company_name: Ghent University
-    company_url: 'https://www.ugent.be/en'
+    company_url: https://www.ugent.be/en
     company_logo: ''
     date_start: 2024-10-01
     date_end: 2024-12-31
     summary: |2-
+
+
        Research stay financed by an award granted by Milan University to finalize final dissertation research about the design of critical thingking in videogames. Worked under supervision of Prof. Marco Caracciolo.
   - position: Research Fellow
     company_name: Sorbonne Université Pari-1
@@ -88,7 +90,9 @@ work:
     company_logo: ''
     date_start: 2022-04-01
     date_end: 2022-07-31
-    summary: |
+    summary: |2-
+
+    
       Research stay financed by an award granted by Trento University to write final dissertation research about the relationshitp between scientific knowledge and common sense.  
 
 # Skills
