@@ -8,7 +8,7 @@ sections:
     content:
       username: "admin"
       text: |
-        I am a PhD candidate at IULM University in Milan.
+        I am a content creator and PhD candidate at IULM University, Milan.
 
         My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
