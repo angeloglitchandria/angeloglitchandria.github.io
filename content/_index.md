@@ -10,7 +10,7 @@ sections:
       text: |
         I am a PhD candidate at IULM University in Milan.
 
-    My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
+My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
     I am also a **video editor** and a **writer**.
 
