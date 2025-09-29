@@ -8,5 +8,5 @@ tags:
   - East Asian Cinema 
 ---
 
-The Grandmasters is an upcoming project about East Asian great directors. On YouTube. 
+_The Grandmasters_ is an upcoming project about East Asian great directors. On YouTube. 
 <!--more-->
