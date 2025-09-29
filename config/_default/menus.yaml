@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: /
-    weight: 11
+    weight: 10
   - name: Papers
     url: /#papers
     weight: 12
@@ -18,5 +18,5 @@ main:
     weight: 20
   - name: Projects
     url: projects/
-    weight: 10
+    weight: 11
 
