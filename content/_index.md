@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: '
 date: 2025-10-14
 type: landing
 
@@ -36,7 +36,7 @@ sections:
       text: |-
         I am a writer and a video editor. I am interested in communicating how visible effects depend on complex processes beneath the surface.
 
-        Please reach out to collaborate 😃
+        Please reach out to collaborate.
     design:
       columns: '1'
   - block: collection
