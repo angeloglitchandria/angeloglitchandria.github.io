@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: resume-biography-3
     title: "About Me"
-    content: "About Me"
+    content: 
       username: "admin"
       text: |
         I am a content creator and PhD candidate at IULM University, Milan.
@@ -31,9 +31,10 @@ sections:
         # gradient_start: "#4f46e5"
         # gradient_end: "#7c3aed"
         # text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
+      spacing:
+
+        padding: ["6", "6", "6", "6"]
+        columns: "1"
 
 # Avatar customization
 avatar:
