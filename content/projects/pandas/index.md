@@ -1,15 +1,15 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: F For Frame
+date: 2024-04-25
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://www.youtube.com/@fforframe
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Cinema
+  - Directors 
+  - Formalism
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A project about cinema form and cinema literacy. On YouTube. 
 
 <!--more-->
