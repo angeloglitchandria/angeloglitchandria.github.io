@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Angelo M. Andriano
+title: 
 date: 2025-10-14
 type: landing
 
