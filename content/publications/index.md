@@ -9,4 +9,5 @@ publication_types:
 - article-journal
 publication: '*Games and Culture, vol. 20, issue 7, 916-933*'
 doi: https://doi.org/10.1177/15554120241226837
+view: list
 ---
