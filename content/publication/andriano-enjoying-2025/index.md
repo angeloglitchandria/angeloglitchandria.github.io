@@ -1,6 +1,6 @@
 ---
-title: Enjoying the Uncertainty. How Dark Souls Perfroms Incompleteness Through Narrative,
-  Level Design and Gameplay.
+title: "Enjoying the Uncertainty. How Dark Souls Perfroms Incompleteness Through Narrative,
+  Level Design and Gameplay."
 authors:
 - A. M. Andriano
 date: '2024-02-07'
