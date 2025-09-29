@@ -4,7 +4,7 @@ title: Enjoying the Uncertainty. How Dark Souls Performs Incompleteness Through 
 authors:
 - Angelo Maria Andriano
 date: '2025-01-01'
-publishDate: '2025-09-29T19:16:27.546878Z'
+publishDate: '2024-02-07T19:16:27.546878Z'
 publication_types:
 - article-journal
 publication: '*Games and Culture*'
