@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: resume-biography-3
+    title: "About Me"
     content:
       username: "admin"
       text: |
@@ -13,7 +14,7 @@ sections:
 
         I am starting a new project about East Asian Cinema, _*The Grandmasters*_, on YouTube.
       button:
-        text: "Click Here"
+        text: "YouTube Channel"
         url: "https://www.youtube.com/@fforframe"
     design:
       background:
@@ -25,20 +26,8 @@ sections:
       #   padding: ["6", "6", "6", "6"]
       # columns: "1"
 
-  - block: header
-    content:
-      title: "Angelo M. Andriano"
-    design:
-      text_align: "left"   # Allinea il testo a sinistra
-      font_size: "32px"    # Imposta la dimensione del font
-      font_weight: "bold"  # Imposta il peso del font
-      color: "#000000"     # Colore del testo (nero in questo caso)
-      padding:
-        top: "20px"
-        left: "20px"      # Margine a sinistra per la posizione del testo
-
 # Avatar customization
 avatar:
   size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-  shape: circle # Options: circle (default), square, rounded
+  shape: rounded # Options: circle (default), square, rounded
 ---
