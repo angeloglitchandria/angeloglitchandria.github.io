@@ -7,12 +7,11 @@ sections:
     content:
       username: "admin"
       text: |
+        I am a PhD candidate at IULM University in Milan. My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
-     I am a PhD candidate at IULM University in Milan. My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
+        I am also a video editor and a writer. My main projects are a newsletter about culture and media, _*Yorick*_, a YouTube channel about cinema form, _*F For Frame*_.
 
-    I am also a video editor and a writer. My main projects are a newsletter about culture and media, _*Yorick*_, a YouTube channel about cinema form, _*F For Frame*_.
-
-    I am starting a new project about East Asian Cinema, _*The Grandmasters*_, on YouTube. 
+        I am starting a new project about East Asian Cinema, _*The Grandmasters*_, on YouTube.
       button:
         text: "Click Here"
         url: "https://www.youtube.com/@fforframe"
@@ -25,10 +24,9 @@ sections:
       # spacing:
       #   padding: ["6", "6", "6", "6"]
       # columns: "1"
----
-      # Avatar customization
-      avatar:
-        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
 
+# Avatar customization
+avatar:
+  size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+  shape: rounded # Options: circle (default), square, rounded
 
