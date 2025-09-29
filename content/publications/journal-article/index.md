@@ -29,6 +29,6 @@ hugoblox:
 links:
   - type: articole
     url: https://journals.sagepub.com/doi/abs/10.1177/15554120241226837
-
+    ---
 
 
