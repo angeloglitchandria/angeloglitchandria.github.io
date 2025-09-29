@@ -17,8 +17,4 @@ summary: "When ambiguity becomes a deliberate strategy of the work, it becomes d
 tags:
 - Games and Culture
 featured: false
-
-hugoblox:
-  ids:
-    - https://doi.org/10.1177/15554120241226837
 ---
