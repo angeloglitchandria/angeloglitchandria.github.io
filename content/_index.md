@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: resume-biography-3
     title: "About Me"
-    content:
+    content: "About Me"
       username: "admin"
       text: |
         I am a content creator and PhD candidate at IULM University, Milan.
@@ -19,6 +19,8 @@ sections:
         I own a YouTube channel about cinema form, _**F For Frame**_.
 
         I am starting a new project about East Asian Cinema, _**The Grandmasters**_, on YouTube.
+
+        To collaborate, please send me an email. 
 
       button:
         text: "YouTube Channel"
