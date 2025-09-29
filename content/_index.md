@@ -7,7 +7,7 @@ sections:
     title: "About Me"
     content:
       username: "admin"
-      text: |2-
+      text: |
      I am a PhD candidate at IULM University in Milan.
 
      My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
