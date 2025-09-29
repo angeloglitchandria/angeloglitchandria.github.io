@@ -1,15 +1,12 @@
 ---
-title: scikit-learn
+title: The Grandmasters
 date: 2023-10-26
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: 
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - East Asian Cinema 
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+The Grandmasters is an upcoming project about East Asian great directors. On YouTube. 
 <!--more-->
