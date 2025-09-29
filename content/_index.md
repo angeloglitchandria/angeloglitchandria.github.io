@@ -12,8 +12,6 @@ sections:
 
         My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
-        
-
         I write a newsletter about culture and media, _**Yorick**_.
 
         I own a YouTube channel about cinema form, _**F For Frame**_.
