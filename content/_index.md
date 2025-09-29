@@ -8,17 +8,17 @@ sections:
     content:
       username: "admin"
       text: |
-      I am a PhD candidate at IULM University in Milan.
+        I am a PhD candidate at IULM University in Milan.
 
-      My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
+        My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
-      I am also a **video editor** and a **writer**.
+        I am also a **video editor** and a **writer**.
 
-      I write a newsletter about culture and media, _**Yorick**_.
-        
-      I own a YouTube channel about cinema form, _**F For Frame**_.
+        I write a newsletter about culture and media, _**Yorick**_.
 
-      I am starting a new project about East Asian Cinema, _**The Grandmasters**_, on YouTube.
+        I own a YouTube channel about cinema form, _**F For Frame**_.
+
+        I am starting a new project about East Asian Cinema, _**The Grandmasters**_, on YouTube.
 
       button:
         text: "YouTube Channel"
