@@ -11,6 +11,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Games and Culture, 20*(7), 916-933"
+publication_short: "Games and Culture, 20*(7), 916-933"
 
 # Summary. An optional shortened abstract.
 summary: "When ambiguity becomes a deliberate strategy of the work, it becomes difficult to understand how to interpret it: in this article I argue that the correct way to interpret a work that makes incompleteness the rule of its poetics is to analyze how that strategy is conveyed throughout its basic grammar, without trying to solve the puzzles and contradictions that incompleteness and ambiguity inevitably produce."
