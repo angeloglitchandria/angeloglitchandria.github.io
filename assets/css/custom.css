@@ -23,10 +23,10 @@ p {
   /* Valore originale: */
   /* width: 320 px;
   /* Modifica per ridurre: */
-  width: 180px; /* Riduci la larghezza */
-  height: 180px; /* Riduci l'altezza (se quadrata) */
+  width: 100px; /* Riduci la larghezza */
+  height: 100px; /* Riduci l'altezza (se quadrata) */
   /* O usa max-width se vuoi mantenerla responsive ma più piccola */
-  /* max-width: 180px; */
+  /* max-width: 100px; */
 }
 
 /* Per il nome "Angelo M. Andriano" */
