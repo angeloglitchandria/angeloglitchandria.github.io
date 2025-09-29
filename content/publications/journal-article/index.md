@@ -1,12 +1,10 @@
 title: "Enjoying the Uncertainty. How _Dark Souls_ Performs Incompleteness Through Narrative, Level Design and Gameplay."
 authors:
   - Andriano, A. M.
-date: "2024-02-07T00:00:00Z"
+date: "2024-02-07"
 
-# Publication type
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name
 publication: "*Games and Culture, 20*(7)"
 publication_short: ""
 
@@ -20,6 +18,5 @@ featured: false
 links:
   - type: article
     url: https://journals.sagepub.com/doi/abs/10.1177/15554120241226837
-
 
 
