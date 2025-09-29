@@ -118,11 +118,15 @@ awards:
       Awarded for outstanding academic track.
   
 ---
-  Angelo M. Andriano is a PhD candidate at IULM University. His current research focuses on the uses of irony in videogames and the relationship between players and game systems. 
+  Angelo M. Andriano is a PhD candidate at IULM University. 
+  
+  His current research focuses on the uses of irony in videogames and the relationship between players and game systems. 
 
-He also owns a YouTube channel, *_F For Frame_*, about cinema. 
-He also writes a newsletter on Substack, *_Yorick_*, about culture and media. 
-He is starting a new project about East Asian Cinema, *_The Grandmasters_*, on YouTube. 
+He also owns a YouTube channel, _**F For Frame**_, about cinema. 
+
+He also writes a newsletter on Substack, _**Yorick**_, about culture and media. 
+
+He is starting a new project about East Asian Cinema, _**The Grandmasters**_, on YouTube. 
 
 To collaborate, please see the contact info. 
 ---
