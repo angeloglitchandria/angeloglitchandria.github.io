@@ -12,7 +12,7 @@ sections:
 
         My current research focuses on the theme of irony in videogames and the way in which game designers can foster the illusion of decentralization for the players.
 
-        I am also a **video editor** and a **writer**.
+        
 
         I write a newsletter about culture and media, _**Yorick**_.
 
@@ -36,8 +36,7 @@ sections:
         padding: ["6", "6", "6", "6"]
         columns: "1"
 
-# Avatar customization
-avatar:
+    avatar:
   size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
   shape: circle # Options: circle (default), square, rounded
 ---
