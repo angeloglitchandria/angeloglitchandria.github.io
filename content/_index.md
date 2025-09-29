@@ -1,30 +1,25 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-date: 2025-10-14
+title: Angelo M. Andriano
 type: landing
-
-design:
-  # Default section spacing
-  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      username: "admin"
+      text: "I am a writer and video editor."
       button:
-        text: 
-        url: 
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+        text: "Click Here"
+        url: "https://example.com"
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
+      background:
+        color: ""
+        # gradient_start: "#4f46e5"
+        # gradient_end: "#7c3aed"
+        # text_color_light: true
+      # spacing:
+      #   padding: ["6", "6", "6", "6"]
+      # columns: "1"
+---
       # Avatar customization
       avatar:
         size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -119,3 +114,4 @@ sections:
         css_class: 'bg-primary-300'
         css_style: ''
 ---
+
