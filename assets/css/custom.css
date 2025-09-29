@@ -28,3 +28,19 @@ p {
   /* O usa max-width se vuoi mantenerla responsive ma più piccola */
   /* max-width: 180px; */
 }
+
+/* Per il nome "Angelo M. Andriano" */
+.profile-name {
+  /* Valore originale */
+  /* font-size: 3em; */
+  /* Modifica per ridurre */
+  font-size: 2em;
+}
+
+/* Per il titolo/descrizione */
+.profile-title {
+  /* Valore originale */
+  /* font-size: 1.2em; */
+  /* Modifica per ridurre */
+  font-size: 1em;
+}
