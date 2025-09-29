@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate, Writer, Video Editor
+role: Writer, Video Editor, PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,10 +33,8 @@ profiles:
 
 interests:
   - Game Design
-  - Cinema Formalism
   - Aesthetics
   - Philosophy of Technology
-  - Literature 
   - Logic and Philosophy of Science
 
 education:
@@ -69,16 +67,12 @@ work:
     company_logo: ''
     date_start: 2024-10-01
     date_end: 2024-12-31
-    summary: |2-
-      Research stay financed by an award granted by Milan University to finalize final dissertation research about the design of critical thingking in videogames. Worked under supervision of Prof. Marco Caracciolo.
   - position: Research Fellow
     company_name: Sorbonne Université Paris-1
     company_url: 'https://www.pantheonsorbonne.fr/'
     company_logo: ''
     date_start: 2022-04-01
-    date_end: 2022-07-31
-    summary: |2-
-      Research stay financed by an award granted by Trento University to write final dissertation research about the relationship between scientific knowledge and common sense.  
+    date_end: 2022-07-31 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,5 +122,5 @@ He also writes a newsletter on Substack, _**Yorick**_, about culture and media.
 
 He is starting a new project about East Asian Cinema, _**The Grandmasters**_, on YouTube. 
 
-To collaborate, please see the contact info. 
+To collaborate, please send an email (the button is under my face). 
 ---
