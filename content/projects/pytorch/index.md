@@ -1,15 +1,15 @@
 ---
-title: PyTorch
+title: Yorick
 date: 2023-10-26
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: https://yoricking.substack.com/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Newsletter
+  - Culture and Media
+  - Substack
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+My personal newsletter about culture and media. Here you can find reviews, suggestions and have fun. 
 
 <!--more-->
