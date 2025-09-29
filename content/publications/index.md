@@ -25,4 +25,4 @@ featured: false
 hugoblox:
   ids:
     https://doi.org/10.1177/15554120241226837
-    ---
+---
