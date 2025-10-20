@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: Angelo M. Andriano is a researcher, content creator and writer. He is a PhD candidate, he makes videos about cinema and writes about culture and media. 
+    description: Angelo M. Andriano is a researcher, content creator and writer. He is a PhD student, he makes videos about cinema and writes about culture and media. 
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -59,6 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-    params:
-  custom_fonts:
-    - "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+    font:
+  heading: "Poppins"
+  body: "Open Sans"
+  monospace: "Fira Code"
