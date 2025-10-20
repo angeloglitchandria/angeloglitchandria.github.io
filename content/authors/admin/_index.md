@@ -13,8 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Writer, Video Editor, PhD Candidate
-
+role: Writer, Video Editor, PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IULM University
