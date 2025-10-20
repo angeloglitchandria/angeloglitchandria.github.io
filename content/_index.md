@@ -18,9 +18,9 @@ sections:
 
     design:
       background:
-        color: ""
+        color: "#f8f9fa"
       spacing:
-        padding: ["8", "6", "8", "6"]
+        padding: ["6", "6", "6", "6"]
         columns: "1"
     avatar:
       size: "small"
