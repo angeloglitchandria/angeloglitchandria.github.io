@@ -60,6 +60,6 @@ features:
     enable: false
 
 font:
-  heading: "Poppins"
+  heading: "Lato"
   body: "Open Sans"
   monospace: "Fira Code"
