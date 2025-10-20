@@ -33,7 +33,7 @@ header:
     block: 'navbar'
     align: 'right'
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: 'Angelo M. Andriano'
 
@@ -59,7 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-    font:
+font:
   heading: "Poppins"
   body: "Open Sans"
   monospace: "Fira Code"
