@@ -17,7 +17,7 @@ role: Writer, Video Editor, PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IULM University
-    url: https://iulm.it/
+    url: [https://iulm.it/](https://www.iulm.it/it/home)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
