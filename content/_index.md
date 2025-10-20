@@ -2,7 +2,7 @@
 title: Angelo M. Andriano
 type: landing
 sections:
-  - block: resume-biography-3
+  - block: About Me
     title: "About Me"
     content:
       username: "admin"
@@ -30,6 +30,6 @@ sections:
         columns: "1"
     avatar:
       size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-      shape: circle # Options: circle (default), square, rounded
+      shape: rounded # Options: circle (default), square, rounded
 ---
 
