@@ -19,9 +19,6 @@ sections:
 
         To collaborate, please send me an email.
 
-      button:
-        text: "YouTube Channel"
-        url: "https://www.youtube.com/@fforframe"
     design:
       background:
         color: ""
