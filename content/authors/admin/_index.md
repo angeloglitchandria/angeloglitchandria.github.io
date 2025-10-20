@@ -38,7 +38,7 @@ interests:
   - Logic and Philosophy of Science
 
 education:
-  - area: PhD Media Studies (Game Studies Focus)
+  - area: PhD Media Studies
     institution: IULM University
     date_start: 2025-10-14
     summary: |
@@ -51,7 +51,7 @@ education:
       Grades: 110/110 Cum Laude
 
       Specialized in Game Studies and Aesthetics. 
-  - area: Bacherlor's Degree in Logic, Philosophy of Science and Language
+  - area: Bacherlor's Degree in Logic, Philosophy of Science 
     institution: Trento University
     date_start: 2019-09-01
     date_end: 2022-10-01
