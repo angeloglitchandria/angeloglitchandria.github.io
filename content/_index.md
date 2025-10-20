@@ -23,10 +23,10 @@ sections:
       background:
         color: ""
       spacing:
-        padding: ["6", "6", "6", "6"]
+        padding: ["8", "6", "8", "6"]
         columns: "1"
     avatar:
-      size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-      shape: rounded # Options: circle (default), square, rounded
+      size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+      shape: circle # Options: circle (default), square, rounded
 ---
 
