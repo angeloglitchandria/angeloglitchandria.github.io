@@ -30,12 +30,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-9987-2321
 
-interests:
-  - Game Design
-  - Aesthetics
-  - Philosophy of Technology
-  - Logic and Philosophy of Science
-
 education:
   - area: PhD Media Studies
     institution: IULM University
