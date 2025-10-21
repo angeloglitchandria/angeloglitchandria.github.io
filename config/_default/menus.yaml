@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Papers
     url: /publications
-    weight: 12
+    weight: 11
   - name: Talks
     url: /events
     weight: 13
@@ -18,5 +18,5 @@ main:
     weight: 20
   - name: Projects
     url: projects/
-    weight: 11
+    weight: 12
 
