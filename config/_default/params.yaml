@@ -5,12 +5,12 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: dark
   color: orange
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: S
+  font_size: XS
 
 # SEO
 marketing:
@@ -37,7 +37,7 @@ header:
     block: 'navbar'
     align: 'right'
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: 'Angelo M. Andriano'
 
