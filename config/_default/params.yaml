@@ -60,6 +60,5 @@ features:
     enable: false
 
 font:
-  heading: "Lato"
-  body: "Open Sans"
-  monospace: "Fira Code"
+font_size: s
+  
