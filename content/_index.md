@@ -19,7 +19,7 @@ sections:
 
     design:
       background:
-        color: "#FFF0E1"
+        color: "#ffffff"
       spacing:
         padding: ["6", "6", "6", "6"]
         columns: "1"
