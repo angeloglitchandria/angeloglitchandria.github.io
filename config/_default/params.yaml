@@ -7,6 +7,10 @@
 appearance:
   mode: light
   color: orange
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: S
 
 # SEO
 marketing:
@@ -58,7 +62,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-font: Minimal
-font_size: s
   
