@@ -33,7 +33,7 @@ header:
     block: 'navbar'
     align: 'right'
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: true
     logo:
       text: 'Angelo M. Andriano'
 
