@@ -5,6 +5,7 @@ sections:
   - block: resume-biography-3
     title: "About Me"
     content:
+      title: "About Me"
       username: "admin"
       text: |
         I am a PhD student at IULM University, Milan.
