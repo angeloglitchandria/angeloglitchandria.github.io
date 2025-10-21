@@ -3,7 +3,6 @@ title: Angelo M. Andriano
 type: landing
 sections:
   - block: resume-biography-3
-    title: "About Me"
     content:
       title: "About Me"
       username: "admin"
