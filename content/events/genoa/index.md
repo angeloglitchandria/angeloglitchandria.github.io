@@ -1,5 +1,5 @@
 ---
-title: "Andriano, A.M. 2025. _The Aesthetics of Problem Solving in Videogames_. Conference Talk. Genoa University"
+title: "Andriano, A.M. (2025). The Aesthetics of Problem Solving in Videogames. Conference Talk. Genoa University"
 
 date: "2025-11-10"
 
