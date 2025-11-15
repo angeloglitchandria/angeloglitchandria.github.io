@@ -1,5 +1,5 @@
 ---
-title: "Immersive Irony in Videogames"
+title: "Andriano, A.M. 2025. _Immersive Irony in Videogames_. Conference Talk. Konstanz University."
 
 date: "2025-09-04"
 
