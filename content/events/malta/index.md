@@ -1,5 +1,5 @@
 ---
-title: "Metroidvania Ecologies. Exploration and the Environmental Imagination in Hollow Knight and Rain World. "
+title: "Andriano, A.M. & Caracciolo, M. 2025. _Metroidvania Ecologies. Exploration and the Environmental Imagination in Hollow Knight and Rain World_. Conference Talk. Malta University"
 
 date: "2025-07-02"
 
