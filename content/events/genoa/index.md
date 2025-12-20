@@ -1,5 +1,5 @@
 ---
-title: "Andriano, A.M., (2025), The Aesthetics of Problem Solving in Videogames, in _Rule-Constituted Entities: From Games and Institutions to Artworks and Artifacts_ [Conference Talk], Genoa University"
+title: "Andriano, A.M., (2025), The Aesthetics of Problem Solving in Videogames, in 'Rule-Constituted Entities: From Games and Institutions to Artworks and Artifacts' [Conference Talk], Genoa University"
 
 date: "2025-11-10"
 
