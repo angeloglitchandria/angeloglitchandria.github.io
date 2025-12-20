@@ -10,6 +10,6 @@ tags:
   - Formalism
 ---
 
-A project about cinema form and cinema literacy. On YouTube. 
+From form to content. Explaining how seemingly innocent choices in camera placement, music, blocking and so on, conveys meaning in cinema. On YouTube. 
 
 <!--more-->
