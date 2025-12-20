@@ -1,5 +1,5 @@
 ---
-title: "Andriano, A.M. (2025). Immersive Irony in Videogames. Conference Talk. Konstanz University"
+title: "Andriano, A.M, (2025), Immersive Irony in Videogames, in Games and Game Studies Beyond Postmodernism [Conference Talk], Konstanz University"
 
 date: "2025-09-04"
 
